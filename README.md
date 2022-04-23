@@ -12,6 +12,6 @@ If you use this dataset in your work, please cite our paper:
 @InProceedings{GevaEtAl2019,
   title = {{AT-ODTSA: a Dataset of Arabic Tweets for Open Domain Targeted Sentiment Analysis}},
   author = {Shaaban, S., Abudalfa, S. and Elmasry, W.},
-  DOI = {http://dx.doi.org/10.12785/ijcds/XXXXXX},
+  DOI = {https://dx.doi.org/10.12785/ijcds/1101105},
   year = {2022}
 }
