@@ -1,5 +1,4 @@
-# AT-ODTSA
-AT-ODTSA: a Dataset of Arabic Tweets  for Open Domain Targeted Sentiment Analysis
+# AT-ODTSA: a Dataset of Arabic Tweets  for Open Domain Targeted Sentiment Analysis
 
 This repository contains the AT-ODTSA dataset described in the paper:
 
